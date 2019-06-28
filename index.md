@@ -2,14 +2,14 @@
 
 
 ## Aprendiendo a aprender
-+ [(https://es.coursera.org/learn/aprendiendo-a-aprender)](https://es.coursera.org/learn/aprendiendo-a-aprender)
++ [https://es.coursera.org/learn/aprendiendo-a-aprender](https://es.coursera.org/learn/aprendiendo-a-aprender)
 
 ## Para escribir
 
-+ (https://es.libreoffice.org)
-+ http://drive.google.com/
-+ https://www.lyx.org/
-+ https://www.overleaf.com/
++ [https://es.libreoffice.org](https://es.libreoffice.org)
++ [http://drive.google.com/](http://drive.google.com/)
++ [https://www.lyx.org/](https://www.lyx.org/)
++ [https://www.overleaf.com/](https://www.overleaf.com/)
 
 ## Nubes
 + https://www.dropbox.com/
