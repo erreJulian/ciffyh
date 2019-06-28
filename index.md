@@ -7,7 +7,7 @@
 ## Para escribir
 
 + [https://es.libreoffice.org](https://es.libreoffice.org)
-+ [http://drive.google.com/](http://drive.google.com/)
++ [https://drive.google.com/](https://drive.google.com/)
 + [https://www.lyx.org/](https://www.lyx.org/)
 + [https://www.overleaf.com/](https://www.overleaf.com/)
 
