@@ -12,20 +12,20 @@
 + [https://www.overleaf.com/](https://www.overleaf.com/)
 
 ## Nubes
-+ https://www.dropbox.com/
-+ https://drive.google.com/
++ [https://www.dropbox.com/](https://www.dropbox.com/)
++ [https://drive.google.com/](https://drive.google.com/)
 
 ### Cuenta para Google Drive UNC
-	+ https://abm.usuarios.unc.edu.ar/#/registro/
+	+ [https://abm.usuarios.unc.edu.ar/#/registro/](https://abm.usuarios.unc.edu.ar/#/registro/)
 
 ### Control de cambios
-	+ https://www.github.com/
+	+ [https://www.github.com/](https://www.github.com/)
     
 ## Gestores bibliográficos
-+ Zotero: https://www.zotero.org/ (nuestra elección)
-+ ZoteroBib: https://zbib.org/
-+ Mendeley: https://www.mendeley.com/
-+ Hypernomicon: http://hypernomicon.org/
++ [Zotero](https://www.zotero.org/) (nuestra elección)
++ [ZoteroBib](https://zbib.org/)
++ [Mendeley](https://www.mendeley.com/)
++ [Hypernomicon](http://hypernomicon.org/)
 
 ### Bibtex:
 + JabRef: http://www.jabref.org/
