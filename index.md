@@ -1,5 +1,6 @@
 # Links
 
+Acá les dejamos algunos links y recursos del taller "Técnicamente, estamos escribiendo".
 
 ## Aprendiendo a aprender
 + [https://es.coursera.org/learn/aprendiendo-a-aprender](https://es.coursera.org/learn/aprendiendo-a-aprender)
